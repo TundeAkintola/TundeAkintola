@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Development 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on HTML, CSS and JavaScript
-- 📫 How to reach me https://twitter.com/Mr_Bharbs
+- 📫 How to reach me https://twitter.com/_TundeAkintola
 
 <!---
 TundeAkintola/TundeAkintola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
